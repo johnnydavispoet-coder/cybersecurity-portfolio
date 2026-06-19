@@ -34,7 +34,7 @@ I build security tools in Python, study real-world vulnerabilities, and practice
 
 # Labs and Training Platform
   ##  Hack The Box
-Profile: https://app.hackthebox.com/profile/johnnydavispoet  
+Profile: https://app.hackthebox.com/profile/JohnnyDavisPoet   
 Practicing penetration testing, enumeration, and privilege escalation in lab environments.
 
  ## Programming Practice
