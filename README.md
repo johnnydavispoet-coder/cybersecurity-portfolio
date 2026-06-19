@@ -40,16 +40,6 @@ Practicing penetration testing, enumeration, and privilege escalation in lab env
  ## Programming Practice
 HackerRank: https://www.hackerrank.com/profile/johnnydavispoet
 Practicing Python and algorithmic problem solving to strengthen scripting and automation skills for cybersecurity tools
-  
-# Certifications & Training 
- ##  Cloud & Security
-- AWS Certified (link or badge image)
-- Google Cloud Skill Badges
-  
- ## Cybersecurity Practice
-- Hack The Box Modules & Achievements
- 
-- Codecademy Python / Bash coursework
  
 ## Private CTF Research
 I maintain a private repository of CTF exploit scripts developed during practice.
